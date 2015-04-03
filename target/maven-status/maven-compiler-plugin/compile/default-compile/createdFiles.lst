@@ -1,0 +1,7 @@
+core\WebdriverExtension.class
+pageObjects\OtherActions.class
+pageObjects\AllActionsOfMainForm.class
+core\BaseTest.class
+pageObjects\MainForm.class
+pageObjects\LLAction.class
+core\ApplicationSettings.class
